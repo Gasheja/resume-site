@@ -49,7 +49,8 @@
             class="btn btn-color-2"
             onclick="window.open('./assets/resume Mugisha')"
           >
-            Download CV
+          <a><a href="https://docs.google.com/document/d/1-2MVMBKwCYVWKU5BM0MJ0mcrO53a41rPCMAk3QGTU4A/edit">View my CV here</a>
+        </a>
           </button>
           <button class="btn btn-color-1" onclick="location.href='./#contact'">
             Contact Info
@@ -77,7 +78,7 @@
       <p class="section__text__p1">Know More</p>
       <h1 class="title">About Me</h1>
       <div class="section-container">
-        <div class="section__pic-container">
+        <div class="section__pic-container
           <img
             src="./assets/ima2.jpg"
             alt="Profile picture"
